@@ -1,6 +1,7 @@
 # 911-Calls-Python-Project
-Analyzing emergency calls made to 911 using pandas, seaborn and matplotlib libraries of Python.
+Analyzing emergency calls made to 911 using pandas, seaborn and matplotlib libraries of Python so as to address the questions:
 
-a.	Insights as of from which place maximum calls are made.
-b.	Analyzing reasons for the emergency call and to which department it were directed to.
-c.	Creating visual plots and heat maps to learn when were the most calls made.
+a. Should the department focus on Emergency Medical Services or Fire services? 
+b. What are the peak time of emergency so as to be prepared in advance?
+c. Insights as of from which place maximum calls are made?
+
